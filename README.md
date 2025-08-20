@@ -1,4 +1,4 @@
-# 📄 Document Extraction Pipeline (Streamlit UI)
+# 📄 Agentic Document Extractor
 
 This project is an **intelligent document extraction pipeline** that:
 - Accepts **PDFs or images** (invoices, medical bills, prescriptions).
