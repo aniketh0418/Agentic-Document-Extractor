@@ -1,0 +1,10 @@
+openai
+pydantic
+pytesseract
+pdf2image
+pillow
+pymupdf
+python-dotenv
+rapidfuzz
+click
+streamlit
