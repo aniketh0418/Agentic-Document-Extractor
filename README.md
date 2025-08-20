@@ -4,7 +4,7 @@ This project is an **intelligent document extraction pipeline** that:
 - Accepts **PDFs or images** (invoices, medical bills, prescriptions).
 - Runs **OCR** to extract raw text from files.
 - Detects document type (`invoice`, `medical_bill`, `prescription`).
-- Uses **LLM via OpenRouter** to extract structured fields.
+- Uses **OpenAI LLM model gpt-oss-120b via OpenRouter** to extract structured fields.
 - Validates extracted data (dates, amounts, totals).
 - Computes **confidence scores** for fields and overall extraction.
 - Provides an interactive **Streamlit UI** to upload documents, view results, and download structured JSON.
